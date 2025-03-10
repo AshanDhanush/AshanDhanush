@@ -25,9 +25,9 @@
 
 - 💬 Ask me about *Web & Software Development*
 
-- 📫 How to reach me *shanprabodh@icloud.com*
+- 📫 How to reach me *ashandhanushka16@gmail.com*
 
-- ⚡ Fun fact *call me as SHAN !*
+- ⚡ Fun fact *call me as Ashan!*
   
 </td>
 </tr>
