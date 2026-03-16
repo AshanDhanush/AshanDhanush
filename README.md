@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Ashan Dhanushka! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-<h3 align="center">💻 Full Stack Developer | Web Development | Cyber Security Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer | Web Development </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshanDhanush&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -19,7 +19,7 @@
 ---
 
 ### 📌 About Me  
-- 🌱 I’m currently learning **Full Stack Development & Cyber Security**  
+- 🌱 I’m currently learning **Full Stack Development**  
 - 💬 Ask me about **Web Development & Java Programming**  
 - 📫 How to reach me **ashandhanushka16@gmail.com**  
 
